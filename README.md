@@ -4,6 +4,8 @@ A Car Store Management Database using Oracle SQL
 
 The purpose of this project is to increase performance and speed of queries by applying improvements.
 
+Schema of the Database is here -> [Schema](Schema_Of_Database.png)
+
 | Row | Operation                        | Explanation                                                         |
 |-----|----------------------------------|---------------------------------------------------------------------|
 | 1   | [Database Workload](A-Database_Workload-Specification.pdf)                | Available transactions in the database explained here               |
