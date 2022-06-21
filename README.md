@@ -6,8 +6,8 @@ The purpose of this project is to increase performance and speed of queries by a
 
 | Row | Operation                        | Explanation                                                         |
 |-----|----------------------------------|---------------------------------------------------------------------|
-| 1   | Database Workload                | Available transactions in the database explained here               |
-| 2   | Create Tables                    | Tables created                                                      |
+| 1   | [Database Workload](A-Database_Workload-Specification.pdf)                | Available transactions in the database explained here               |
+| 2   | [Create Tables](B-Creating_Tables.pdf)                    | Tables created                                                      |
 | 3   | Queries and Execution Times      | Execution time of queries given                                     |
 | 4   | Query Plans - Specification      | What each query does explained using query plan                     |
 | 5   | Indexes - Specification          | Type of indexes explained                                           |
